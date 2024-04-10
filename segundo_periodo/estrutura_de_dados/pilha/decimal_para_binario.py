@@ -46,7 +46,7 @@ class Stack:
 
 
 def decimal_para_binario(data):
-    # list_binario virou um objeto da class Stack()
+    # var list_binario virou um objeto da class Stack()
     list_binario = Stack()
 
     # Add o resto da divisao no top da pilha
